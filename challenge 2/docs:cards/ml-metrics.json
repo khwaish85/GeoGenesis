@@ -1,0 +1,12 @@
+{
+    "_comment": "This JSON file contains the ml-metrics for Challenge 2",
+    "Name": "Annam.ai",
+    "Kaggle Username": "annam.ai",
+    "Team Name": "soilclassifiers",
+    "f1 score": 0.5378,
+    "classes": {
+      "soil": 0.55,
+      "non-soil": 0.52
+    }
+  }
+  

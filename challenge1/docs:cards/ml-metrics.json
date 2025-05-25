@@ -1,0 +1,14 @@
+{
+    "_comment": "This JSON file contains the class-wise and overall F1 scores for Challenge 1",
+    "Name": "Annam.ai",
+    "Kaggle Username": "annam.ai",
+    "Team Name": "soilclassifiers",
+    "f1 scores": {
+      "alluvial soil": 0.96,
+      "red soil": 0.97,
+      "black soil": 0.96,
+      "clay soil": 0.96
+    },
+    "overall_f1_score": 0.9655
+  }
+  
